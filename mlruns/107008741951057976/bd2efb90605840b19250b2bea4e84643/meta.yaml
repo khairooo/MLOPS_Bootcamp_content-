@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/107008741951057976/bd2efb90605840b19250b2bea4e84643/artifacts
+end_time: 1730562384301
+entry_point_name: ''
+experiment_id: '107008741951057976'
+lifecycle_stage: active
+run_id: bd2efb90605840b19250b2bea4e84643
+run_name: polite-gull-893
+run_uuid: bd2efb90605840b19250b2bea4e84643
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730562369858
+status: 3
+tags: []
+user_id: khair
