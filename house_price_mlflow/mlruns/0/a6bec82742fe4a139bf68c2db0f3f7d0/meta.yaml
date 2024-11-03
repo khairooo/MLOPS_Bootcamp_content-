@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/a6bec82742fe4a139bf68c2db0f3f7d0/artifacts
+deleted_time: 1730596096948
+end_time: 1730595928482
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a6bec82742fe4a139bf68c2db0f3f7d0
+run_name: exultant-shrike-116
+run_uuid: a6bec82742fe4a139bf68c2db0f3f7d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730595857787
+status: 4
+tags: []
+user_id: khair
