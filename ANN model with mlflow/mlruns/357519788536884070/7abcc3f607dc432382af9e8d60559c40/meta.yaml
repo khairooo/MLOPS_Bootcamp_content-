@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/khair/OneDrive/Bureau/mlflow/MLOPS_Bootcamp_content-/ANN%20model%20with%20mlflow/mlruns/357519788536884070/7abcc3f607dc432382af9e8d60559c40/artifacts
+end_time: 1730663360441
+entry_point_name: ''
+experiment_id: '357519788536884070'
+lifecycle_stage: active
+run_id: 7abcc3f607dc432382af9e8d60559c40
+run_name: kindly-shoat-619
+run_uuid: 7abcc3f607dc432382af9e8d60559c40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730663331654
+status: 3
+tags: []
+user_id: khair

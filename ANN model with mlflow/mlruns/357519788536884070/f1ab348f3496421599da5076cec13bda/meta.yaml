@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/khair/OneDrive/Bureau/mlflow/MLOPS_Bootcamp_content-/ANN%20model%20with%20mlflow/mlruns/357519788536884070/f1ab348f3496421599da5076cec13bda/artifacts
+end_time: 1730663082653
+entry_point_name: ''
+experiment_id: '357519788536884070'
+lifecycle_stage: active
+run_id: f1ab348f3496421599da5076cec13bda
+run_name: luxuriant-toad-833
+run_uuid: f1ab348f3496421599da5076cec13bda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730663039310
+status: 3
+tags: []
+user_id: khair

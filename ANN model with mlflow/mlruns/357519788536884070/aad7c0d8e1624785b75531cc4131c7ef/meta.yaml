@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/khair/OneDrive/Bureau/mlflow/MLOPS_Bootcamp_content-/ANN%20model%20with%20mlflow/mlruns/357519788536884070/aad7c0d8e1624785b75531cc4131c7ef/artifacts
+end_time: 1730663395342
+entry_point_name: ''
+experiment_id: '357519788536884070'
+lifecycle_stage: active
+run_id: aad7c0d8e1624785b75531cc4131c7ef
+run_name: able-ram-841
+run_uuid: aad7c0d8e1624785b75531cc4131c7ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730663378719
+status: 3
+tags: []
+user_id: khair

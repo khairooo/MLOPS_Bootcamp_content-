@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/khair/OneDrive/Bureau/mlflow/MLOPS_Bootcamp_content-/ANN%20model%20with%20mlflow/mlruns/357519788536884070/983fe78940334cc2ade554a90805c1e2/artifacts
+end_time: 1730663170906
+entry_point_name: ''
+experiment_id: '357519788536884070'
+lifecycle_stage: active
+run_id: 983fe78940334cc2ade554a90805c1e2
+run_name: fun-newt-451
+run_uuid: 983fe78940334cc2ade554a90805c1e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730662964082
+status: 3
+tags: []
+user_id: khair

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/khair/OneDrive/Bureau/mlflow/MLOPS_Bootcamp_content-/ANN%20model%20with%20mlflow/mlruns/357519788536884070/2dd2d87cd5724acfadb55ccf9a2b57ae/artifacts
+end_time: 1730663038917
+entry_point_name: ''
+experiment_id: '357519788536884070'
+lifecycle_stage: active
+run_id: 2dd2d87cd5724acfadb55ccf9a2b57ae
+run_name: incongruous-rat-659
+run_uuid: 2dd2d87cd5724acfadb55ccf9a2b57ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730662966418
+status: 3
+tags: []
+user_id: khair

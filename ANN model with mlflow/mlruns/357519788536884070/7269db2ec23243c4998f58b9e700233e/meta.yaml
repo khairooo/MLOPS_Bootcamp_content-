@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/khair/OneDrive/Bureau/mlflow/MLOPS_Bootcamp_content-/ANN%20model%20with%20mlflow/mlruns/357519788536884070/7269db2ec23243c4998f58b9e700233e/artifacts
+end_time: 1730663378494
+entry_point_name: ''
+experiment_id: '357519788536884070'
+lifecycle_stage: active
+run_id: 7269db2ec23243c4998f58b9e700233e
+run_name: tasteful-perch-69
+run_uuid: 7269db2ec23243c4998f58b9e700233e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730663360565
+status: 3
+tags: []
+user_id: khair
